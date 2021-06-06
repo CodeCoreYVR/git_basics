@@ -1,7 +1,7 @@
 const arr = ['a','b','c'];
 
-for (let i=0; i < arr.length; i++){
-    console.log('index', i, 'value', arr[i], "hello creatures")
+for (let j=0; j < arr.length; j++){
+    console.log('index', j, 'value', arr[j], "hello creatures")
 }
 
 
