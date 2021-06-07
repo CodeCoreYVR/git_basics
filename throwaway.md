@@ -1,0 +1,1 @@
+just practicing stuff, trying to memorize branches, pushing and deleting locally and remotely.
